@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "title": "European Quest",
+      "imageUrl": "https://bit.ly/3MJSMzk",
+      "imageAlt": "Desert landscape",
+      "numberOfCountries": 8,
+      "duration": 21,
+      "emissionsOffset": "810 kg",
+      "rating": 4.7
+    },
+    {
+      "title": "Autumn Roadtrip",
+      "imageUrl": "https://bit.ly/409DNl2",
+      "imageAlt": "Autumn road",
+      "numberOfCountries": 1,
+      "duration": 14,
+      "emissionsOffset": "3.56 t",
+      "rating": 4.6
+    },
+    {
+      "title": "Diving adventure in Egypt",
+      "imageUrl": "https://bit.ly/3MJSMzk",
+      "imageAlt": "Underwater fauna",
+      "numberOfCountries": 1,
+      "duration": 5,
+      "emissionsOffset": "6.92 t",
+      "rating": 4.7
+    },
+    {
+      "title": "Diving adventure in Egypt",
+      "imageUrl": "https://bit.ly/3MJSMzk",
+      "imageAlt": "Underwater fauna",
+      "numberOfCountries": 1,
+      "duration": 1,
+      "emissionsOffset": "6.92 t",
+      "rating": 4.7
+    }
+  ]
+}
